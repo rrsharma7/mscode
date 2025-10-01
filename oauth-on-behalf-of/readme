@@ -1,0 +1,6 @@
+curl -X POST "http://localhost:8080/obo/token" \
+  -d "client_token=client-token-123" \
+  -d "user_token=user-token-456"
+
+  curl -H "Authorization: Bearer <access_token>" \
+    http://localhost:8080/api/obo-secure-data

@@ -1,0 +1,5 @@
+curl -X POST "http://localhost:8080/oauth/token" \
+     -d "client_id=my-client" -d "client_secret=my-secret"
+
+     curl -H "Authorization: Bearer some-uuid-token" http://localhost:8080/api/secure-data
+     This is secured data accessible with a valid access token!
