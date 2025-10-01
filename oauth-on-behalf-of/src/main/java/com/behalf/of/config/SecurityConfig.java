@@ -1,6 +1,6 @@
-package com.example.obo.config;
+package com.behalf.of.config;
 
-import com.example.obo.service.OBOService;
+import com.behalf.of.service.OBOService;
 import jakarta.servlet.*;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;

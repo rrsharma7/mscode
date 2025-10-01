@@ -1,6 +1,6 @@
-package com.example.obo.controller;
+package com.behalf.of.controller;
 
-import com.example.obo.service.OBOService;
+import com.behalf.of.service.OBOService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
