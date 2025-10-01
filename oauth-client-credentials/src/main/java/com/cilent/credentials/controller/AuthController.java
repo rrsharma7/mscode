@@ -1,6 +1,6 @@
-package com.example.oauthmock.controller;
+package com.cilent.credentials.controller;
 
-import com.example.oauthmock.service.TokenService;
+import com.cilent.credentials.service.TokenService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,6 +1,6 @@
-package com.example.oauthmock.config;
+package com.cilent.credentials.config;
 
-import com.example.oauthmock.service.TokenService;
+import com.cilent.credentials.service.TokenService;
 import jakarta.servlet.*;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;

@@ -1,4 +1,4 @@
-package com.example.oauthmock.service;
+package com.cilent.credentials.service;
 
 import org.springframework.stereotype.Service;
 

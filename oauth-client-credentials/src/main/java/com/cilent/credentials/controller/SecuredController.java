@@ -1,4 +1,4 @@
-package com.example.oauthmock.controller;
+package com.cilent.credentials.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
